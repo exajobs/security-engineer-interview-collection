@@ -4,7 +4,7 @@ Security Engineering FAANG (MANGA) Interview Collection. An ongoing & curated co
 > Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 
-### Contents
+### Table of Contents
 - [README](README.md)
 - [Learning Tips](#learning-tips)
 - [Interviewing Tips](#interviewing-tips)
