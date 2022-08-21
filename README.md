@@ -1,5 +1,8 @@
 # Security Engineering at Google: My Interview Study Notes
 
+> Welcome Security Engineering FAANG (MANGA) Interview Collection ®. A collection of awesome software, libraries, documents, books, resources and cool stuff about DevOps.
+Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
+
 
 ### Contents
 - [README](README.md)
